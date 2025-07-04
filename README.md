@@ -45,8 +45,10 @@ A summary of customer engagement by review count:
 - Computers and Accessories: 451 reviews
 - Home and Kitchen: 231 reviews
 
-- 
-- 
+- ![4 1](https://github.com/user-attachments/assets/bf1a45d5-62d8-4e07-8e93-590bb20fbe72)
+
+- ![PROJECT NOOW 4B](https://github.com/user-attachments/assets/beef79fe-6c6b-4f8f-8ef8-bf4d443c8430)
+
   
 
 
@@ -56,6 +58,12 @@ Electronics: ₦8.18 trillion
 Computers and Accessories: ₦5.89 trillion
 Home and Kitchen: ₦5.58 trillion
 (Note: These are not actual sales, but projections based on rating count as a proxy for purchase volume.)
+
+![5 1](https://github.com/user-attachments/assets/b7e651b8-9601-4669-b7d1-a45cbfdb1015)
+
+![5 2](https://github.com/user-attachments/assets/74ba2896-e6e9-4b5f-a25b-631369a54f20)
+
+
   
 📁 Files and Resources
 The analysis spans three main Excel sheets:
