@@ -34,11 +34,21 @@ Using a PivotTable, I calculated the average discount percentage per main catego
 Using average customer ratings, the stande up products included:
 - Air Conditioners (Car and Motorbike) with an average rating of 3.8
 
+![Project noow 3](https://github.com/user-attachments/assets/fcbbf333-282a-4af6-9271-5b1ef967a553)
+
+- ![PROJBECT NOOW 3](https://github.com/user-attachments/assets/68e94ba2-37d9-40fe-a798-70263ca76252)
+
+
 ## 4. Total Customer Reviews
 A summary of customer engagement by review count:
 - Electronics: 711 reviews
 - Computers and Accessories: 451 reviews
 - Home and Kitchen: 231 reviews
+
+- 
+- 
+  
+
 
 - ## 5. Potential Revenue Estimation
 Estimated by multiplying actual_price × rating_count, we derived a rough indicator of category revenue potential:
